@@ -1,0 +1,11 @@
+{
+  "name": "gestor-demandas",
+  "version": "1.0.0",
+  "description": "Gestor de Demandas para vereador",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
